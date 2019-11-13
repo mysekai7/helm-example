@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cpaas-fit:
+  - apiVersion: v1
+    appVersion: "2.0"
+    created: "2019-11-13T18:13:28.58967+08:00"
+    description: Cpaas Fit for TSF
+    digest: b8283e35769a5859354fbc50457ca36823eb3bbcecd52a891ca00bbac05872b6
+    name: cpaas-fit
+    urls:
+    - http://onechao.github.io/helm-example/cpaas-fit-v2.5-b.2.tgz
+    version: v2.5-b.2
+generated: "2019-11-13T18:13:28.585191+08:00"
